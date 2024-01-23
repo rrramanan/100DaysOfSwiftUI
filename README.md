@@ -1,2 +1,3 @@
-100 Days Of SwiftUI from Paul Hudson
+# 100DaysOfSwiftUI
+100 Days Of SwiftUI - Paul Hudson
 
